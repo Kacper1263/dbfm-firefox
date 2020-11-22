@@ -1,0 +1,26 @@
+{
+
+  "manifest_version": 2,
+  "name": "DBFM by Kacper Marcinkiewicz",
+  "version": "1.5.9.3",
+
+  "description": "The plugin that changes the theme of messenger.com to dark",
+
+  "browser_action": {
+	"default_icon": "icons/logo.png",
+	"default_popup": "popup.html"
+  },
+  
+  "icons": {
+    "48": "icons/logo.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.messenger.com/*"],
+      "css": ["style.css"]
+    }
+  ]
+
+  
+}
