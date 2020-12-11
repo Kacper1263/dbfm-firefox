@@ -445,6 +445,16 @@ Version 2.x starts from there but I will keep old code to support people with ol
 	border-radius: 0px 0px 10px 10px;
 }
 
+/* Active window */
+.oajrlxb2.gs1a9yip.i224opu6.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.a8c37x1j.mg4g778l.btwxx1t3.pfnyh3mw.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.lzcic4wl.abiwlrkh.p8dawk7l.ue3kfks5.pw54ja7n.uo3d90p7.l82x9zwi * {
+	background-color: #0f1115;
+	border-radius: 15px;	
+}
+
+.oajrlxb2.g5ia77u1.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.j83agx80.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.i1ao9s8h.esuyzwwr.f1sip0of.lzcic4wl.l9j0dhe7.abiwlrkh.p8dawk7l.bp9cbjyn.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.taijpn5t.k7cz35w2.bsnbvmp4, .s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.bp9cbjyn.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.pq6dq46d.taijpn5t.l9j0dhe7.tdjehn4e.e5d9fub0.oeao4gh3{
+	background-color: #3b4251;
+}
+
 /* Eoji selection */
 .uiContextualLayerParent._2znm * {
 	background-color: #1d2026;
@@ -452,4 +462,25 @@ Version 2.x starts from there but I will keep old code to support people with ol
 ._1og-._43o4._4470{
 	background-color: #111315;
 	border-top: 1px #242b36 solid;
+}
+
+/* Add image */
+.k4urcfbm.b3onmgus.r8blr3vg.ph5uu5jm.cxgpxx05.d76ob5m9.jifvfom9.j83agx80.bp9cbjyn{
+	background-color: #242b36;
+}
+.kb5gq1qc.pfnyh3mw.m7zwrmfr.rs0gx3tq.tvfksri0.dicw6rsg.hcukyx3x.jm1wdb64.l9j0dhe7.tmrshh9y{
+	border-radius: 20px;
+}
+.oajrlxb2.bp9cbjyn.n1jkxfxr.mtkw9kbi.tlpljxtp.qensuy8j.ppp5ayq2.goun2846.ccm00jje.s44p3ltw.mk2mc5f4.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.rq0escxv.nhd2j8a9.j83agx80.mg4g778l.btwxx1t3.pfnyh3mw.p7hjln8o.rs0gx3tq.tvfksri0.dicw6rsg.hcukyx3x.tgvbjcpo.hpfvmrgz.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.l9j0dhe7.i1ao9s8h.esuyzwwr.f1sip0of.du4w35lb.lzcic4wl.abiwlrkh.p8dawk7l.fni8adji.hgaippwi.fykbt5ly.ns4ygwem.kb5gq1qc.m7zwrmfr.taijpn5t.jm1wdb64.tmrshh9y, .oajrlxb2.hn33210v.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.j83agx80.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.i1ao9s8h.esuyzwwr.f1sip0of.lzcic4wl.l9j0dhe7.abiwlrkh.p8dawk7l.bp9cbjyn.s45kfl79.emlxlaya.bkmhp75w.spb7xbtv.rt8b4zig.n8ej3o3l.agehan2d.sk4xxmp2.taijpn5t.rgmg9uty.b73ngqbp.m7msyxje.m9osqain{
+	background-color: #495362;
+}
+
+/* Typing */
+.bp9cbjyn.j83agx80.kmzbrmfl{
+	background-color: #25292f;
+}
+
+/* Readed */
+.crt8y2ji.ppxo33br{
+	fill: #242b36;
 }
