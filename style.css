@@ -722,7 +722,7 @@ div[class="l60d2q6s d1544ag0 sj5x9vvc tw6a2znq l9j0dhe7 ni8dbmo4 stjgntxs e72ty7
 }
 
 /* Response close button */
-i[class="hu5pjgll lzf7d6o1 sp_ejRTop7dETv sx_ba21ba"]{
+i[class="hu5pjgll lzf7d6o1 sp_ejRTop7dETv sx_ba21ba"], i[class="hu5pjgll lzf7d6o1 sp_Rmr0TEtmSsD sx_f5d375"]{
 	filter: invert(100%);
 }
 
@@ -751,4 +751,8 @@ div[class="sf5mxxl7 ni8dbmo4 stjgntxs datstx6m monazrh9 h905i5nu inkptoze qmr60z
 }
 i[class="hu5pjgll lzf7d6o1 sp_o59mMBH32zv sx_f32c5d"]{
 	filter: invert(100%);
+}
+
+div[class="bp9cbjyn j83agx80 fmqa7x8m"]{
+	background: transparent;
 }
