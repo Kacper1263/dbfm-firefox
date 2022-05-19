@@ -258,6 +258,8 @@
 	--surface-background: var(--dbfm-main-background-color);
 	--secondary-button-background: var(--dbfm-secondary-btn-background-color);
 	--hosted-view-selected-state: var(--dbfm-active-chat-color); 	
+	--always-dark-overlay: var(--dbfm-primary-text-color);
+	--always-black: var(--dbfm-primary-text-color);
 	
 	--card-background: #161b22;
 }
@@ -269,11 +271,6 @@
 /* Muted chat "bell" icon fix */
 path[d="M9.244 24.99h-.001L26.867 7.366a1.25 1.25 0 111.768 1.768l-3.296 3.295a2 2 0 00-.554 1.766l1.05 5.877a3 3 0 00.831 1.594l.92.92a1.414 1.414 0 01-1 2.414H13.597a2 2 0 00-1.414.586l-3.05 3.049a1.25 1.25 0 11-1.767-1.768l1.878-1.877z"], path[d="M15.041 27.498c-.045-.273.183-.498.459-.498h5c.276 0 .504.226.459.498a3 3 0 01-5.918 0zm6.481-19.474a6.57 6.57 0 00-9.99 4.39L10.537 18l-.056.27c-.152.729.738 1.209 1.264.682l9.862-9.86c.312-.314.29-.83-.084-1.068z"]{
 	filter: invert(60%);
-}
-
-/* "Rooms" icon color fix  */
-path[d="M5 13.5a4 4 0 014-4h10a4 4 0 014 4v9a4 4 0 01-4 4H9a4 4 0 01-4-4v-9zm8 0a1 1 0 112 0v3.25c0 .138.112.25.25.25h3.25a1 1 0 110 2h-3.25a.25.25 0 00-.25.25v3.25a1 1 0 11-2 0v-3.25a.25.25 0 00-.25-.25H9.5a1 1 0 110-2h3.25a.25.25 0 00.25-.25V13.5z"], path[d="M29.552 23.393l-3.723-1.861A1.5 1.5 0 0125 20.19v-4.38a1.5 1.5 0 01.829-1.342l3.723-1.861A1 1 0 0131 13.5v9a1 1 0 01-1.448.894z"]{
-	filter:invert(1);
 }
 
 /* Settings icons color fix */
