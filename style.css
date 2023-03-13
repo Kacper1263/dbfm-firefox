@@ -278,8 +278,12 @@ path[d="M22.278 25.778a3.5 3.5 0 107 0 3.5 3.5 0 00-7 0z"], path[d="M28.734 20.4
 	filter:invert(60%);
 }
 
-/* Hide additional scrollbar */
+/* Hide additional scrollbar - #2 */
 ._9dls{
 	overflow-y: hidden !important;
 }
 
+/* Search close btn fix - #3 */
+div[class="x1n2onr6 x1ja2u2z x78zum5 x2lah0s xl56j7k x6s0dn4 xozqiw3 x1q0g3np xi112ho x17zwfj4 x585lrc x1403ito x972fbf xcfux6l x1qhh985 xm0m39n x9f619 xn6708d x1ye3gou x14hiurz __fb-light-mode  x1r1pt67"]{
+	background-color: #2e3640 !important;
+}
