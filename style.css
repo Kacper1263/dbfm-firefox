@@ -285,5 +285,5 @@ path[d="M22.278 25.778a3.5 3.5 0 107 0 3.5 3.5 0 00-7 0z"], path[d="M28.734 20.4
 
 /* Search close btn fix - #3 */
 div[role="button"] > div.__fb-light-mode{
-	background-color: #2e3640;
+	background-color: var(--dbfm-secondary-btn-background-color);
 }
